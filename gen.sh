@@ -40,8 +40,8 @@ function genRepoCard() {
 
 # -----
 
-genStatsCard
-echo
+#genStatsCard
+#echo
 
 declare -r repos=(
 	"laravel-api-response-builder"
@@ -49,7 +49,9 @@ declare -r repos=(
 	"Mp3VoiceStamp"
 	"DateTimeTemplate"
 	"weekday-plasmoid"
-	"octoprint-monitor"
+	"html-clock-plasmoid"
+	"bank-qrcode-formatter"
+	"StackUnderflow"
 )
 
 for repo in ${repos[*]}; do
