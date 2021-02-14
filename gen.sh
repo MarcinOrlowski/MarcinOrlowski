@@ -50,6 +50,8 @@ declare -r repos=(
 	"DateTimeTemplate"
 	"weekday-plasmoid"
 	"html-clock-plasmoid"
+	"crypto-tracker-plasmoid"
+	"process-dotenv"
 	"bank-qrcode-formatter"
 	"StackUnderflow"
 )
