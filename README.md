@@ -9,3 +9,4 @@
 [![bank-qrcode-formatter](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=bank-qrcode-formatter&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/bank-qrcode-formatter)
 [![StackUnderflow](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=StackUnderflow&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/StackUnderflow)
 
+<!--START_SECTION:activity-->
