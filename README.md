@@ -10,14 +10,14 @@
 [![StackUnderflow](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=StackUnderflow&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/StackUnderflow)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-2. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-3. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-4. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-5. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-6. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-7. ❗️ Opened issue [#847](https://github.com/logisim-evolution/logisim-evolution/issues/847) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+1. 🗣 Commented on [#848](https://github.com/logisim-evolution/logisim-evolution/issues/848) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+2. 🗣 Commented on [#846](https://github.com/logisim-evolution/logisim-evolution/issues/846) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+3. 🎉 Merged PR [#39](https://github.com/MarcinOrlowski/prop-tool/pull/39) in [MarcinOrlowski/prop-tool](https://github.com/MarcinOrlowski/prop-tool)
+4. 💪 Opened PR [#39](https://github.com/MarcinOrlowski/prop-tool/pull/39) in [MarcinOrlowski/prop-tool](https://github.com/MarcinOrlowski/prop-tool)
+5. 🎉 Merged PR [#38](https://github.com/MarcinOrlowski/prop-tool/pull/38) in [MarcinOrlowski/prop-tool](https://github.com/MarcinOrlowski/prop-tool)
+6. 💪 Opened PR [#38](https://github.com/MarcinOrlowski/prop-tool/pull/38) in [MarcinOrlowski/prop-tool](https://github.com/MarcinOrlowski/prop-tool)
+7. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 8. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 9. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-10. 🗣 Commented on [#845](https://github.com/logisim-evolution/logisim-evolution/issues/845) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+10. 🗣 Commented on [#844](https://github.com/logisim-evolution/logisim-evolution/issues/844) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 <!--END_SECTION:activity-->
