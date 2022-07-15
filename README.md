@@ -10,14 +10,14 @@
 [![bank-qrcode-formatter](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=bank-qrcode-formatter&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/bank-qrcode-formatter)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/develart-projects/pickup-points-api-client/pull/24) in [develart-projects/pickup-points-api-client](https://github.com/develart-projects/pickup-points-api-client)
-2. 💪 Opened PR [#23](https://github.com/develart-projects/pickup-points-api-client/pull/23) in [develart-projects/pickup-points-api-client](https://github.com/develart-projects/pickup-points-api-client)
-3. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+1. 🗣 Commented on [#1469](https://github.com/logisim-evolution/logisim-evolution/issues/1469) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+2. 💪 Opened PR [#24](https://github.com/develart-projects/pickup-points-api-client/pull/24) in [develart-projects/pickup-points-api-client](https://github.com/develart-projects/pickup-points-api-client)
+3. 💪 Opened PR [#23](https://github.com/develart-projects/pickup-points-api-client/pull/23) in [develart-projects/pickup-points-api-client](https://github.com/develart-projects/pickup-points-api-client)
 4. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 5. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 6. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 7. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-8. 🗣 Commented on [#1469](https://github.com/logisim-evolution/logisim-evolution/issues/1469) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-9. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-10. 🗣 Commented on [#1459](https://github.com/logisim-evolution/logisim-evolution/issues/1459) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+8. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+9. 🗣 Commented on [#1469](https://github.com/logisim-evolution/logisim-evolution/issues/1469) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+10. 🗣 Commented on [#1471](https://github.com/logisim-evolution/logisim-evolution/issues/1471) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 <!--END_SECTION:activity-->
