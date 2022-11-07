@@ -8,16 +8,3 @@
 [![crypto-tracker-plasmoid](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=crypto-tracker-plasmoid&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/crypto-tracker-plasmoid)
 [![process-dotenv](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=process-dotenv&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/process-dotenv)
 [![bank-qrcode-formatter](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=bank-qrcode-formatter&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/bank-qrcode-formatter)
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1580](https://github.com/logisim-evolution/logisim-evolution/issues/1580) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-2. 💪 Opened PR [#1580](https://github.com/logisim-evolution/logisim-evolution/pull/1580) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-3. 🗣 Commented on [#1563](https://github.com/logisim-evolution/logisim-evolution/issues/1563) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-4. 🗣 Commented on [#1563](https://github.com/logisim-evolution/logisim-evolution/issues/1563) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-5. 💪 Opened PR [#1578](https://github.com/logisim-evolution/logisim-evolution/pull/1578) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-6. 🗣 Commented on [#1483](https://github.com/logisim-evolution/logisim-evolution/issues/1483) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-7. 🗣 Commented on [#1514](https://github.com/logisim-evolution/logisim-evolution/issues/1514) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-8. 🗣 Commented on [#1576](https://github.com/logisim-evolution/logisim-evolution/issues/1576) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-9. 🎉 Merged PR [#10](https://github.com/MarcinOrlowski/phpunit-extra-asserts/pull/10) in [MarcinOrlowski/phpunit-extra-asserts](https://github.com/MarcinOrlowski/phpunit-extra-asserts)
-10. 💪 Opened PR [#10](https://github.com/MarcinOrlowski/phpunit-extra-asserts/pull/10) in [MarcinOrlowski/phpunit-extra-asserts](https://github.com/MarcinOrlowski/phpunit-extra-asserts)
-<!--END_SECTION:activity-->
