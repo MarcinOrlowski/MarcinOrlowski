@@ -1,3 +1,11 @@
+# Update README.md with
+#
+# <!--START_SECTION:activity-->
+# <!--END_SECTION:activity-->
+# 
+# to have the block between these tags filled with activity entries.
+#
+
 name: Update README
 
 on:
