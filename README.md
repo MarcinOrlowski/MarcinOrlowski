@@ -1,11 +1,10 @@
 [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy)
-[![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy)
 
-[![x](img/dummy-450.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-450.webp)](http://github.com/MarcinOrlowski/dummy)
 [![x](img/dummy-450.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-450.webp)](http://github.com/MarcinOrlowski/dummy)
 
 [![x](img/dummy-430.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-430.webp)](http://github.com/MarcinOrlowski/dummy)
-[![x](img/dummy-430.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-430.webp)](http://github.com/MarcinOrlowski/dummy)
+
+[![x](img/dummy-420.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-420.webp)](http://github.com/MarcinOrlowski/dummy)
 
 <!-- 
 
