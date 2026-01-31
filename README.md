@@ -2,6 +2,7 @@
 [![Laravel API Response Builder](img/laravel-api-response-builder.webp)](https://github.com/MarcinOrlowski/laravel-api-response-builder)
 [![Disco Toolbar for Symfony](img/discotoolbar-symfony.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-symfony)
 [![Disco Toolbar for Laravel](img/discotoolbar-laravel.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-laravel)
+[![SDDM Laval Lamp MHL](img/sddm-lavalamp.webp)](https://github.com/MarcinOrlowski/sddm-lavalamp-mhl)
 
 <!-- 
 
