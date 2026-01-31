@@ -1,3 +1,7 @@
+[![Website As App](img/website-as-app.webp)](https://github.com/MarcinOrlowski/website-as-app)
+[![Laravel API Response Builder](img/laravel-response-builder.webp)](https://github.com/MarcinOrlowski/laravel-api-response-builder)
+[![Disco Toolbar for Symfony](img/disco-toolbar-symfony.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-symfony)
+[![Disco Toolbar for Laravel](img/disco-toolbar-laravel.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-laravel)
 
 <!-- 
 
