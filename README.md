@@ -1,5 +1,3 @@
-[![x](img/dummy.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy.webp)](http://github.com/MarcinOrlowski/dummy)
-
 [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy)
 [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-small.webp)](http://github.com/MarcinOrlowski/dummy)
 
