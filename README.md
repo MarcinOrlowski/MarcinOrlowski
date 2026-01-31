@@ -1,8 +1,7 @@
-[![x](img/dummy-408.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-408.webp)](http://github.com/MarcinOrlowski/dummy)
-
-[![x](img/dummy-400.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-400.webp)](http://github.com/MarcinOrlowski/dummy)
 
 <!-- 
+
+[![x](img/dummy-400.webp)](http://github.com/MarcinOrlowski/dummy) [![x](img/dummy-400.webp)](http://github.com/MarcinOrlowski/dummy)
 
 [![Website as App](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=website-as-app&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/website-as-app)
 [![banger](https://github-readme-stats.vercel.app/api/pin/?username=MarcinOrlowski&repo=banger&theme=default&hide_border=true&title_color=87c9c3&text_color=62696d&icon_color=636a6d&bg_color=30393e)](https://github.com/MarcinOrlowski/banger)
