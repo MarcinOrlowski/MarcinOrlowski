@@ -1,14 +1,10 @@
-<!--
 [![Website As App](img/website-as-app.webp)](https://github.com/MarcinOrlowski/website-as-app)
 [![Laravel API Response Builder](img/laravel-api-response-builder.webp)](https://github.com/MarcinOrlowski/laravel-api-response-builder)
--->
 [![Disco Toolbar for Symfony](img/discotoolbar-symfony.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-symfony)
 [![Disco Toolbar for Laravel](img/discotoolbar-laravel.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-laravel)
-<!--
 [![SDDM Laval Lamp MHL](img/sddm-lavalamp.webp)](https://github.com/MarcinOrlowski/sddm-lavalamp-mhl)
 [![Lombok PHP](img/php-lombok.webp)](https://github.com/MarcinOrlowski/lombok-php)
 [![HTML Clock](img/kde-html-clock.webp)](https://github.com/MarcinOrlowski/html-clock-plasmoid)
 [![Banger](img/banger.webp)](https://github.com/MarcinOrlowski/banger)
 [![PHP Lockpick](img/php-lockpick.webp)](https://github.com/MarcinOrlowski/php-lockpick)
 [![Compare monitors](img/compare-monitors.webp)](https://github.com/MarcinOrlowski/compare-monitors)
--->
