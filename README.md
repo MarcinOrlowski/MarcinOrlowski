@@ -5,6 +5,7 @@
 [![SDDM Laval Lamp MHL](img/sddm-lavalamp.webp)](https://github.com/MarcinOrlowski/sddm-lavalamp-mhl)
 [![Lombok PHP](img/php-lombok.webp)](https://github.com/MarcinOrlowski/lombok-php)
 [![HTML Clock](img/kde-html-clock.webp)](https://github.com/MarcinOrlowski/html-clock-plasmoid)
+[![Banger](img/banger.webp)](https://github.com/MarcinOrlowski/banger)
 
 <!-- 
 
