@@ -3,7 +3,7 @@
 [![Disco Toolbar for Symfony](img/discotoolbar-symfony.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-symfony)
 [![Disco Toolbar for Laravel](img/discotoolbar-laravel.webp)](https://github.com/MarcinOrlowski/php-discotoolbar-laravel)
 [![SDDM Laval Lamp MHL](img/sddm-lavalamp.webp)](https://github.com/MarcinOrlowski/sddm-lavalamp-mhl)
-[![Rainbow Waves MHL](img/rainbow-waves-mhl.webp)](https://github.com/MarcinOrlowski/rainbow-waves-mhl)
+[![Monolith MHL](img/monolith-mhl.webp)](https://github.com/MarcinOrlowski/monolith-mhl)
 [![Lombok PHP](img/php-lombok.webp)](https://github.com/MarcinOrlowski/lombok-php)
 [![HTML Clock](img/kde-html-clock.webp)](https://github.com/MarcinOrlowski/html-clock-plasmoid)
 [![Banger](img/banger.webp)](https://github.com/MarcinOrlowski/banger)
