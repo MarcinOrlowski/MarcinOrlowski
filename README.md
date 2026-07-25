@@ -1,3 +1,5 @@
+[![Glowstick](img/idea-glowstick-mhl.webp)](https://github.com/MarcinOrlowski/idea-glowsstick-mhl)
+[![Zellij b/g Tint](img/zellij-background-tint.webp)](https://github.com/MarcinOrlowski/zellij-background-tint)
 [![qrcat](img/qrcat.webp)](https://github.com/MarcinOrlowski/qrcat)
 [![Website As App](img/website-as-app.webp)](https://github.com/MarcinOrlowski/website-as-app)
 [![Laravel API Response Builder](img/laravel-api-response-builder.webp)](https://github.com/MarcinOrlowski/laravel-api-response-builder)
