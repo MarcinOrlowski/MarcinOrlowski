@@ -1,4 +1,4 @@
-[![Glowstick](img/idea-glowstick-mhl.webp)](https://github.com/MarcinOrlowski/idea-glowsstick-mhl)
+[![Glowstick](img/idea-glowstick-mhl.webp)](https://github.com/MarcinOrlowski/idea-glowstick-mhl)
 [![Zellij b/g Tint](img/zellij-background-tint.webp)](https://github.com/MarcinOrlowski/zellij-background-tint)
 [![qrcat](img/qrcat.webp)](https://github.com/MarcinOrlowski/qrcat)
 [![Website As App](img/website-as-app.webp)](https://github.com/MarcinOrlowski/website-as-app)
